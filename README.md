@@ -1,4 +1,4 @@
-{{TOC}}
+
 
 # Canonical LR Parser 
 
